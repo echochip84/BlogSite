@@ -7,7 +7,7 @@ enableRobotsTXT = true
 [params]
   author = '편집팀'
   description = '집수리·인테리어 전반을 다루는 전문 정보 블로그'
-  tagline = '집수리·인테리어, 판단 기준부터 비용까지'
+  tagline = '집수리·인테리어<br>판단 기준부터 비용까지'
   favicon = ''
   avatar = ''
 
