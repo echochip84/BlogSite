@@ -1,4 +1,4 @@
-baseURL = 'https://homesense-note.pages.dev/'
+baseURL = 'https://blogsite.echochip.workers.dev/'
 locale = 'ko-kr'
 title = '홈센스노트'
 theme = 'echochip-chirpy-hugo'
