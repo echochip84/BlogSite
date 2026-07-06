@@ -10,11 +10,26 @@ enableRobotsTXT = true
   tagline = '집수리·인테리어<br>판단 기준부터 비용까지'
   favicon = ''
   avatar = '/images/avatar.png'
+  # Zero-signup page-view counter (busuanzi.js, third-party free service).
+  pageviews = true
 
   [params.social]
     github = 'https://github.com/echochip84'
     threads = 'https://www.threads.com/@echochip2025'
     email = 'echchip@naver.com'
+
+  # Giscus comments (GitHub Discussions-backed). Leave repoId/categoryId
+  # empty until Discussions is enabled on the repo and the giscus GitHub
+  # App is installed -- comments stay hidden until all four are filled in.
+  # Get the exact values from https://giscus.app after that setup.
+  [params.giscus]
+    repo = 'echochip84/BlogSite'
+    repoId = ''
+    category = ''
+    categoryId = ''
+    mapping = 'pathname'
+    theme = 'preferred_color_scheme'
+    lang = 'ko'
 
 [pagination]
   pagerSize = 10

@@ -212,6 +212,16 @@
       modeToggle.querySelectorAll('[data-theme-mode]').forEach((icon) => {
         icon.classList.toggle('d-none', icon.dataset.themeMode !== mode);
       });
+
+      const giscusFrame = document.querySelector('iframe.giscus-frame');
+      if (giscusFrame) {
+        const resolved =
+          mode === 'system' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : mode;
+        giscusFrame.contentWindow?.postMessage(
+          { giscus: { setConfig: { theme: resolved } } },
+          'https://giscus.app'
+        );
+      }
     };
 
     const saveMode = (mode) => {
