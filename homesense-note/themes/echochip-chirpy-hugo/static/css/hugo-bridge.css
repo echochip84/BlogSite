@@ -751,6 +751,16 @@ main article[data-toc] .content h3::after {
   color: var(--toc-highlight);
 }
 
+/* Self-hosted reset so pagination still lays out correctly even if the
+   Bootstrap CDN stylesheet fails to load (list markers would otherwise
+   show the browser's default bullet before 이전/다음/1 etc). */
+.pagination {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
 .pagination {
   gap: .35rem;
   justify-content: center;
