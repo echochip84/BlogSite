@@ -16,7 +16,7 @@ enableRobotsTXT = true
   # Cloudflare Web Analytics beacon token (dashboard-only stats, nothing
   # shown on the page itself). Get it from the Cloudflare dashboard:
   # Analytics & Logs > Web Analytics > Add a site > copy the token.
-  cloudflareAnalyticsToken = ''
+  cloudflareAnalyticsToken = 'ddd4626aab654673a622f98fa775c22f'
 
   [params.social]
     github = 'https://github.com/echochip84'
@@ -30,8 +30,8 @@ enableRobotsTXT = true
   [params.giscus]
     repo = 'echochip84/BlogSite'
     repoId = 'R_kgDOTLeYRA'
-    category = ''
-    categoryId = ''
+    category = 'Announcements'
+    categoryId = 'DIC_kwDOTLeYRM4DAmIU'
     mapping = 'pathname'
     theme = 'preferred_color_scheme'
     lang = 'ko'
