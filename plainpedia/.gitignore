@@ -1,0 +1,6 @@
+# plainpedia는 여러 니치 블로그의 Hugo 빌드 결과물을 하위 폴더로 모아 서빙하는
+# 우산 프로젝트. 각 블로그의 build 결과물(public/{블로그명}/**)은 해당 블로그
+# 프로젝트(D:\BlogSite\{블로그명}\)에서 재생성되므로 git에 커밋하지 않는다.
+# public/index.html, public/ads.txt 같은 plainpedia 자체 소유 파일은 그대로 추적한다.
+public/*/
+.wrangler/

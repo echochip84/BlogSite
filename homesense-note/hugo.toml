@@ -1,4 +1,4 @@
-baseURL = 'https://homesense.echochip.workers.dev/'
+baseURL = 'https://plainpedia.com/homesense/'
 locale = 'ko-kr'
 title = '홈센스 노트'
 theme = 'echochip-chirpy-hugo'
