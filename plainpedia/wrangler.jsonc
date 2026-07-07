@@ -5,6 +5,7 @@
     "directory": "./public"
   },
   "routes": [
-    { "pattern": "plainpedia.com", "custom_domain": true }
+    { "pattern": "plainpedia.com", "custom_domain": true },
+    { "pattern": "www.plainpedia.com", "custom_domain": true }
   ]
 }
