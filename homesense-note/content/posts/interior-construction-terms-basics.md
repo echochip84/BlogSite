@@ -10,9 +10,9 @@ categories: ["입문 교실"]
 tags: ["인테리어", "용어", "입문"]
 author: "홈센스 노트"
 cover:
-  image: "https://images.unsplash.com/photo-1540103711724-ebf833bde8d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxpbnRlcmlvciUyMHJlbm92YXRpb24lMjBibHVlcHJpbnQlMjB0b29sc3xlbnwwfDB8fHwxNzgzNTk5MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-  alt: "다양한 색상의 시공 공구들이 나란히 놓인 모습"
-  caption: "Photo by [Eugen Str](https://unsplash.com/@eugen1980?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
+  image: "https://images.unsplash.com/photo-1433840496881-cbd845929862?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxpbnRlcmlvciUyMHJlbm92YXRpb24lMjBibHVlcHJpbnQlMjB0b29sc3xlbnwwfDB8fHwxNzgzNjI4MTE1fDA&ixlib=rb-4.1.0&q=80&w=1200"
+  alt: "인테리어 시공 도면과 설계 자료가 책상 위에 펼쳐진 모습"
+  caption: "Photo by [Sergey Zolkin](https://unsplash.com/@szolkin?utm_source=blog&utm_medium=referral?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0003"
 funnel_type: "입문교육"
 schema_type: "Article"

@@ -9,11 +9,10 @@ draft: false
 categories: ["업체 견적"]
 tags: ["실비정산제", "정액제"]
 author: "편집팀"
-image_pending: true
 cover:
-  image: ""
-  alt: ""
-  caption: ""
+  image: "https://images.unsplash.com/photo-1542621334-a254cf47733d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfGFsbHx8fHx8fHx8fDE3ODM2MjgzMTN8&ixlib=rb-4.1.0&q=80&w=1200"
+  alt: "시공 견적서 위에 놓인 연필과 설계 도면"
+  caption: "Photo by [Sven Mieke](https://unsplash.com/@sxoxm?utm_source=blog&utm_medium=referral?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0049"
 funnel_type: "비교판단"
 schema_type: "Article"

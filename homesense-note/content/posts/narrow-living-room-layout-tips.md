@@ -10,10 +10,9 @@ categories: ["공간 인테리어"]
 tags: ["거실", "공간활용"]
 author: "편집팀"
 cover:
-  image: ""
-  alt: ""
-  caption: ""
-image_pending: true
+  image: "https://images.unsplash.com/photo-1616137422495-1e9e46e2aa77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxuYXJyb3clMjBsaXZpbmclMjByb29tJTIwZnVybml0dXJlJTIwbGF5b3V0fGVufDB8MHx8fDE3ODM2MjgyOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "밝은 톤 소파와 낮은 가구로 정돈된 거실 배치"
+  caption: "Photo by [Spacejoy](https://unsplash.com/@spacejoy?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0161"
 funnel_type: "문제해결"
 schema_type: "Article"

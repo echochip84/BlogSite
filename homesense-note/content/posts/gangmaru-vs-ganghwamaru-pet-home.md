@@ -9,11 +9,10 @@ draft: false
 categories: ["제품 추천"]
 tags: ["강마루", "강화마루"]
 author: "편집팀"
-image_pending: true
 cover:
-  image: ""
-  alt: ""
-  caption: ""
+  image: "https://images.unsplash.com/photo-1526479540275-62783538d64b?ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxkb2clMjB3b29kJTIwZmxvb3IlMjBob21lfGVufDB8MHx8fDE3ODM2MjgyMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "나무 바닥 위에 편안하게 누워 있는 반려견 두 마리"
+  caption: "Photo by [Wade Austin Ellis](https://unsplash.com/@wadeaustinellis?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0125"
 funnel_type: "비교판단"
 schema_type: "Article"

@@ -10,9 +10,9 @@ categories: ["입문 교실"]
 tags: ["집수리", "공사순서", "입문"]
 author: "홈센스 노트"
 cover:
-  image: "https://images.unsplash.com/photo-1634586648651-f1fb9ec10d90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxob21lJTIwcmVwYWlyJTIwaW50ZXJpb3IlMjByZW5vdmF0aW9uJTIwd29ya3xlbnwwfDB8fHwxNzgzNTk5MjI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  alt: "리모델링 공사 중인 실내 공간에 공구와 자재가 놓인 모습"
-  caption: "Photo by [Stefan Lehner](https://unsplash.com/@st_lehner?utm_source=blog&utm_medium=referral?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
+  image: "https://images.unsplash.com/photo-1718816281270-ed6ef8357859?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxob21lJTIwcmVub3ZhdGlvbiUyMGNvbnN0cnVjdGlvbiUyMHRvb2xzJTIwaW50ZXJpb3J8ZW58MHwwfHx8MTc4MzU5OTg0NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "리모델링 공사가 진행 중인 실내 공간에 사다리와 창문이 보이는 모습"
+  caption: "Photo by [Steffen Lemmerzahl](https://unsplash.com/@steffen_l?utm_source=blog&utm_medium=referral?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0001"
 funnel_type: "입문교육"
 schema_type: "Article"

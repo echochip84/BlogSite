@@ -9,11 +9,10 @@ draft: false
 categories: ["하자 대응"]
 tags: ["배관누수", "확인법"]
 author: "편집팀"
-image_pending: true
 cover:
-  image: ""
-  alt: ""
-  caption: ""
+  image: "https://images.unsplash.com/photo-1526898943670-92bfa9f94c12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx3YXRlciUyMHBpcGUlMjBsZWFrJTIwaW5zcGVjdGlvbnxlbnwwfDB8fHwxNzgzNjI4MjMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "회색 배관에서 물이 흘러나오는 누수 장면"
+  caption: "Photo by [Daan Mooij](https://unsplash.com/@daanmooij?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0070"
 funnel_type: "문제해결"
 schema_type: "Article"

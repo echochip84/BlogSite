@@ -9,11 +9,10 @@ draft: false
 categories: ["업체 견적"]
 tags: ["시공팀", "업체비교"]
 author: "편집팀"
-image_pending: true
 cover:
-  image: ""
-  alt: ""
-  caption: ""
+  image: "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxpbnRlcmlvciUyMHJlbm92YXRpb24lMjBhcGFydG1lbnQlMjBjb25zdHJ1Y3Rpb258ZW58MHwwfHx8MTc4MzU5OTg0NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "아파트 인테리어 시공 현장에서 사다리를 오르며 작업하는 모습"
+  caption: "Photo by [Milivoj Kuhar](https://unsplash.com/@mimithecook?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0045"
 funnel_type: "비교판단"
 schema_type: "Article"

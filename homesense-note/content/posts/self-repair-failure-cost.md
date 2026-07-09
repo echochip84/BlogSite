@@ -10,10 +10,9 @@ categories: ["셀프 수리"]
 tags: ["셀프수리", "실패비용"]
 author: "편집팀"
 cover:
-  image: ""
-  alt: ""
-  caption: ""
-image_pending: true
+  image: "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxkYW1hZ2VkJTIwd2FsbCUyMHJlbm92YXRpb24lMjB1bmZpbmlzaGVkfGVufDB8MHx8fDE3ODM2MjgyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "미완성 상태로 남은 실내 리노베이션 현장에서 사다리 위에 선 작업자"
+  caption: "Photo by [Milivoj Kuhar](https://unsplash.com/@mimithecook?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0089"
 funnel_type: "입문교육"
 schema_type: "Article"

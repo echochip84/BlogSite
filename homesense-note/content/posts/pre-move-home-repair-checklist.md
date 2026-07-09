@@ -9,7 +9,10 @@ draft: false
 categories: ["입문 교실"]
 tags: ["이사", "집수리", "체크리스트"]
 author: "편집팀"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8aG9tZSUyMHJlcGFpciUyMGluc3BlY3Rpb24lMjBjbGlwYm9hcmR8ZW58MHwwfHx8MTc4MzYwMDk3OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "실내에서 클립보드를 들고 점검하는 모습"
+  caption: "Photo by [TruckRun](https://unsplash.com/@truckrun_ebike_systems?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0024"
 funnel_type: "체크리스트"
 schema_type: "Article"

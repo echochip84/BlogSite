@@ -9,11 +9,10 @@ draft: false
 categories: ["기타"]
 tags: ["가전비교", "빌트인가전"]
 author: "편집팀"
-image_pending: true
 cover:
-  image: ""
-  alt: ""
-  caption: ""
+  image: "https://images.unsplash.com/photo-1484154218962-a197022b5858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBraXRjaGVuJTIwYnVpbHQtaW4lMjBhcHBsaWFuY2VzfGVufDB8MHx8fDE3ODM1OTkyNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "빌트인 냉장고와 모듈식 주방 가구가 조화를 이루는 현대적인 주방 전경"
+  caption: "Photo by [Naomi Hébert](https://unsplash.com/@naomish?utm_source=blog&utm_medium=referral?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0198"
 funnel_type: "비교판단"
 schema_type: "Article"
