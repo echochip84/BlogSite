@@ -2,3 +2,4 @@ public/
 .devbuild/
 resources/
 .hugo_build.lock
+.wrangler/
