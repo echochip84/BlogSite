@@ -14,6 +14,8 @@ enableRobotsTXT = true
   # Off by default: busuanzi's backend is unreliable and often leaves the
   # count empty ("조회 회"), which looks broken to visitors and reviewers.
   pageviews = false
+  # Keep this blog out of search indexes while under AdSense review hold.
+  noindexSite = true
   # Cloudflare Web Analytics beacon token (dashboard-only stats, nothing
   # shown on the page itself). Get it from the Cloudflare dashboard:
   # Analytics & Logs > Web Analytics > Add a site > copy the token.
