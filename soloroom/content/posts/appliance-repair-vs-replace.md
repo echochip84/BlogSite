@@ -9,7 +9,10 @@ draft: false
 categories: ["자취 가전 선택"]
 tags: ["가전", "비용"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1663068307522-1731d9c8fbc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxyZXBhaXJpbmclMjBvbGQlMjB3YXNoaW5nJTIwbWFjaGluZXxlbnwwfDB8fHwxNzg0Mjg3NDc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "여러 대의 세탁기가 나란히 놓여 있는 세탁 공간"
+  caption: "Photo by [Ambitious Studio* | Rick Barrett](https://unsplash.com/@weareambitious?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "sol-0168"
 funnel_type: "문제해결"
 schema_type: "Article"

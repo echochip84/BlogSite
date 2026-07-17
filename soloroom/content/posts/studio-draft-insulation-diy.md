@@ -9,7 +9,10 @@ draft: false
 categories: ["원룸 인테리어"]
 tags: ["비용", "세입자"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1773581965471-98ee237dde0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxzZWFsaW5nJTIwZHJhZnR5JTIwYXBhcnRtZW50JTIwd2luZG93fGVufDB8MHx8fDE3ODQyODc0NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "창문 너머로 나무가 보이는 아파트 실내 풍경"
+  caption: "Photo by [blue sky](https://unsplash.com/@bluext?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "sol-0013"
 funnel_type: "문제해결"
 schema_type: "Article"
