@@ -122,4 +122,14 @@
       {{ $faqSchema | jsonify | safeJS | printf "<script type=\"application/ld+json\">%s</script>" | safeHTML }}
     {{ end }}
   {{ end }}
+{{ with site.Params.googleAnalyticsId }}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ . }}');
+  </script>
+{{ end }}
 </head>

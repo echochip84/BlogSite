@@ -18,6 +18,7 @@ enableRobotsTXT = true
   # shown on the page itself). Get it from the Cloudflare dashboard:
   # Analytics & Logs > Web Analytics > Add a site > copy the token.
   cloudflareAnalyticsToken = 'ddd4626aab654673a622f98fa775c22f'
+  googleAnalyticsId = 'G-WJFE0HE868'
   # Google AdSense 계정 연결용 퍼블리셔 ID (도메인 전체 공용 - plainpedia.com 하위
   # 모든 블로그가 동일한 값을 씀). ads.txt는 D:\BlogSite\plainpedia\public\ads.txt에 별도 배치.
   adsensePublisherId = 'pub-9763908781879859'
