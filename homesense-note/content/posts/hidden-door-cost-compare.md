@@ -9,7 +9,10 @@ draft: false
 categories: ["제품 추천"]
 tags: ["도어비교", "히든도어"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1610380123149-fba11fb20792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxmbHVzaCUyMGhpZGRlbiUyMHdhbGwlMjBkb29yfGVufDB8MHx8fDE3ODQzNDQ3MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "은색 레버 손잡이가 달린 하얀 원목 문의 클로즈업 모습"
+  caption: "Photo by [Shlok Jethwa](https://unsplash.com/@shlokjethwa?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0138"
 funnel_type: "비교판단"
 schema_type: "Article"
