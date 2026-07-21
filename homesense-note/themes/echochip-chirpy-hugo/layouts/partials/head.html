@@ -33,6 +33,10 @@
   {{ end }}
   {{ if site.Params.noindexSite }}
     <meta name="robots" content="noindex,follow">
+  {{ else if and (in (slice "taxonomy" "term") .Kind) (eq .Data.Plural "tags") }}
+    {{/* 태그 페이지는 개별 글보다 얇고, 태그 수가 많아 사이트맵·색인 예산을 잠식한다
+         (실측: 글 118개 대비 태그 페이지 212개) — 존재는 허용(내부 탐색용)하되 색인에서만 뺀다. */}}
+    <meta name="robots" content="noindex,follow">
   {{ end }}
 
   <meta property="og:title" content="{{ cond .IsHome site.Title .Title }}">

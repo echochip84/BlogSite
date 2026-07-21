@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://plainpedia.com/homesense/sitemap.xml
+Sitemap: https://plainpedia.com/tidylab/sitemap.xml
