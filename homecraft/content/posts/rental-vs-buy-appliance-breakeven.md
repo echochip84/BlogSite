@@ -7,7 +7,7 @@ date: 2026-07-15T09:00:00+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["살림 도구 비교"]
-tags: ["도구", "비교", "비용"]
+tags: ["살림도구", "기초살림", "생활비용"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1666608129935-8d01b4dbc875?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHx3YXRlciUyMHB1cmlmaWVyJTIwa2l0Y2hlbnxlbnwwfDB8fHwxNzg0MTAzMTEwfDA&ixlib=rb-4.1.0&q=80&w=1080"

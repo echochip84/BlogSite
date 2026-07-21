@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["냄새 얼룩 해결"]
-tags: ["문제해결", "비교"]
+tags: ["기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxmcmVzaCUyMGNsZWFuJTIwbGl2aW5nJTIwcm9vbXxlbnwwfDB8fHwxNzg0MTgyMTc4fDA&ixlib=rb-4.1.0&q=80&w=1080"

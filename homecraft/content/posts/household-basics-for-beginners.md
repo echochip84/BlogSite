@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["살림의 기초"]
-tags: ["기본기", "루틴", "입문"]
+tags: ["기초살림", "청소루틴"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1583907659441-addbe699e921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjbGVhbmluZyUyMHN1cHBsaWVzJTIwb24lMjBjb3VudGVyfGVufDB8MHx8fDE3ODQyNDA0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080"

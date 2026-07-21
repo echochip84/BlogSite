@@ -7,7 +7,7 @@ date: 2026-07-15T09:00:00+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["살림 도구 비교"]
-tags: ["도구", "비교", "입문"]
+tags: ["살림도구", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1576521528008-684613730cd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxoYW5kJTIwaG9sZGluZyUyMGNvb2tpbmclMjBzcGF0dWxhfGVufDB8MHx8fDE3ODQwOTE0NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"

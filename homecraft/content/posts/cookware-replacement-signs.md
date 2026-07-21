@@ -7,7 +7,7 @@ date: 2026-07-19T09:00:00+09:00
 lastmod: 2026-07-19
 draft: false
 categories: ["주방 살림 기술"]
-tags: ["주방위생", "체크리스트"]
+tags: ["주방위생", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1508061070143-ef31b783a1a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHx3b3JuJTIwd29vZGVuJTIwa2l0Y2hlbiUyMHNwYXR1bGF8ZW58MHwwfHx8MTc4NDQyNTIwMXww&ixlib=rb-4.1.0&q=80&w=1080"

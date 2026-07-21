@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["냄새 얼룩 해결"]
-tags: ["문제해결", "습기"]
+tags: ["기초살림", "곰팡이습기"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1524282745852-a463fa495a7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxvcGVuJTIwY2xvc2V0JTIwZHJ5aW5nJTIwY2xvdGhlc3xlbnwwfDB8fHwxNzg0Mjg4ODAxfDA&ixlib=rb-4.1.0&q=80&w=1080"

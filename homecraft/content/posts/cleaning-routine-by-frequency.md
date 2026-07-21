@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["살림의 기초"]
-tags: ["루틴", "체크리스트"]
+tags: ["청소루틴", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1633526543814-9718c8922b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjbGVhbmluZyUyMHN1cHBsaWVzJTIwb24lMjBjYWxlbmRhcnxlbnwwfDB8fHwxNzg0MjY1NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080"

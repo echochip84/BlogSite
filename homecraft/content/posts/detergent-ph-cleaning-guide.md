@@ -7,7 +7,7 @@ date: 2026-07-15T09:00:00+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["살림의 기초"]
-tags: ["기본기", "세제", "원리"]
+tags: ["기초살림", "세탁관리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1643107242058-9391a7ba60d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjb2xvcmZ1bCUyMGRldGVyZ2VudCUyMGJvdHRsZXMlMjBzaGVsZnxlbnwwfDB8fHwxNzg0MDkxNDMzfDA&ixlib=rb-4.1.0&q=80&w=1080"

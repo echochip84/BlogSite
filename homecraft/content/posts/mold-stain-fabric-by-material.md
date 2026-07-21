@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["세탁 관리법"]
-tags: ["곰팡이", "세탁"]
+tags: ["곰팡이습기", "세탁관리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1600014190031-11dccd559665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8MXx8aGFuZ2luZyUyMGxhdW5kcnklMjB0byUyMGRyeXxlbnwwfDB8fHwxNzg0MjY1NDA2fDA&ixlib=rb-4.1.0&q=80&w=1080"

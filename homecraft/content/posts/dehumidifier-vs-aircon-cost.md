@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["계절 살림법"]
-tags: ["가전관리", "비교", "비용"]
+tags: ["살림도구", "기초살림", "생활비용"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8MXx8ZGVodW1pZGlmaWVyJTIwaW4lMjBiZWRyb29tfGVufDB8MHx8fDE3ODQyNDIwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"

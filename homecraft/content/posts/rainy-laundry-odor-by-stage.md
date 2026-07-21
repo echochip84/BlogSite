@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["계절 살림법"]
-tags: ["문제해결", "세탁"]
+tags: ["기초살림", "세탁관리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1466837581110-aeaa58fb562f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8Mnx8bGF1bmRyeSUyMGRyeWluZyUyMGluJTIwcmFpbnxlbnwwfDB8fHwxNzg0MjY1NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["청소 노하우"]
-tags: ["곰팡이", "문제해결"]
+tags: ["곰팡이습기", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1758548157319-ec649ce00f1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHx3aGl0ZSUyMGJhdGhyb29tJTIwd2FsbCUyMHRpbGVzfGVufDB8MHx8fDE3ODQyNDA1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080"

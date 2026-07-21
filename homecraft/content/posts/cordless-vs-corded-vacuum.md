@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["살림 도구 비교"]
-tags: ["비교", "비용", "청소"]
+tags: ["기초살림", "생활비용", "청소루틴"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1762501748150-7fd88647fc2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHx2YWN1dW0lMjBjbGVhbmluZyUyMHdvb2QlMjBmbG9vcnxlbnwwfDB8fHwxNzg0MTgyMTg1fDA&ixlib=rb-4.1.0&q=80&w=1080"

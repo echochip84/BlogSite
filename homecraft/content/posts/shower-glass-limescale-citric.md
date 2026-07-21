@@ -7,7 +7,7 @@ date: 2026-07-15T09:00:00+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["욕실 관리 루틴"]
-tags: ["문제해결", "세제", "청소"]
+tags: ["기초살림", "세탁관리", "청소루틴"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxnbGFzcyUyMHNob3dlciUyMGRvb3J8ZW58MHwwfHx8MTc4NDEwMzEwOXww&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-15T09:00:00+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["자취 살림 입문"]
-tags: ["인덕션", "자취", "조리도구"]
+tags: ["기초살림", "자취살림", "살림도구"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1773098587137-1a62971cfedb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxpbmR1Y3Rpb24lMjBjb29rdG9wJTIwc21hbGwlMjBraXRjaGVufGVufDB8MHx8fDE3ODQwOTE0NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"

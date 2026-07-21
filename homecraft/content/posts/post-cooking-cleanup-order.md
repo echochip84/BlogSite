@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["주방 살림 기술"]
-tags: ["루틴", "주방위생"]
+tags: ["청소루틴", "주방위생"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1661045542820-e0e02836be15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8NHx8Z3JlYXN5JTIwc3RvdmV0b3AlMjBhZnRlciUyMGNvb2tpbmd8ZW58MHwwfHx8MTc4NDI2NTQwNnww&ixlib=rb-4.1.0&q=80&w=1080"

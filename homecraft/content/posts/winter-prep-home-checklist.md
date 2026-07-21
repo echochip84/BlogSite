@@ -7,7 +7,7 @@ date: 2026-07-19T09:00:00+09:00
 lastmod: 2026-07-19
 draft: false
 categories: ["계절 살림법"]
-tags: ["루틴", "체크리스트"]
+tags: ["청소루틴", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjaGVja2xpc3QlMjBub3RlYm9vayUyMGFuZCUyMHBlbnxlbnwwfDB8fHwxNzg0NDI1MjA5fDA&ixlib=rb-4.1.0&q=80&w=1080"

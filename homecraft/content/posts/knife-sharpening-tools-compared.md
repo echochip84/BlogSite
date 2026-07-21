@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["주방 살림 기술"]
-tags: ["비교", "주방위생"]
+tags: ["기초살림", "주방위생"]
 author: "echochip"
 funnel_type: "비교판단"
 schema_type: "Article"

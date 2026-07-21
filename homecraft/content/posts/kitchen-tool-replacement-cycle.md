@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["살림의 기초"]
-tags: ["교체주기", "주방위생"]
+tags: ["기초살림", "주방위생"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1624811533744-f85d5325d49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHx3b29kZW4lMjBjdXR0aW5nJTIwYm9hcmQlMjBzcG9uZ2V8ZW58MHwwfHx8MTc4NDE4MjE3Mnww&ixlib=rb-4.1.0&q=80&w=1080"

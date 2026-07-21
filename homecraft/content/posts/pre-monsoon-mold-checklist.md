@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["계절 살림법"]
-tags: ["습기", "체크리스트"]
+tags: ["곰팡이습기", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1470432581262-e7880e8fe79a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHx3aW5kb3clMjBjb25kZW5zYXRpb24lMjByYWlueSUyMGRheXxlbnwwfDB8fHwxNzg0Mjg4MjkxfDA&ixlib=rb-4.1.0&q=80&w=1080"

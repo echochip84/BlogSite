@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["살림의 기초"]
-tags: ["흰옷 변색", "과탄산소다", "세탁"]
+tags: ["기초살림", "세탁관리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1646592474094-342fbc28736c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMGxhdW5kcnklMjBzb2FraW5nJTIwYmFzaW58ZW58MHwwfHx8MTc4NDI4ODI4NHww&ixlib=rb-4.1.0&q=80&w=1080"

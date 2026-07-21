@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["살림의 기초"]
-tags: ["곰팡이", "문제해결", "원리"]
+tags: ["곰팡이습기", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1756007488862-2ad25618deed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxtb2xkJTIwb24lMjB3YWxsJTIwY29ybmVyfGVufDB8MHx8fDE3ODQyMTM3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"

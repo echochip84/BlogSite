@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["계절 살림법"]
-tags: ["결로", "곰팡이", "습기"]
+tags: ["기초살림", "곰팡이습기"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1561469873-9429b01297e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxjb25kZW5zYXRpb24lMjB3YXRlciUyMGRyb3BsZXRzJTIwd2luZG93fGVufDB8MHx8fDE3ODQxODIxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"

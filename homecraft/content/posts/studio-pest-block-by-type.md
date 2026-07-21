@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["자취 살림 입문"]
-tags: ["벌레차단", "자취"]
+tags: ["기초살림", "자취살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1747450755752-3d08531adeb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8Mnx8dGlkeSUyMGNsZWFuJTIwYXBhcnRtZW50JTIwY29ybmVyfGVufDB8MHx8fDE3ODQyNDIwMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"

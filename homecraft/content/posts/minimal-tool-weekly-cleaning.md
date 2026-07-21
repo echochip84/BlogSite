@@ -7,7 +7,7 @@ date: 2026-07-19T09:00:00+09:00
 lastmod: 2026-07-19
 draft: false
 categories: ["자취 살림 입문"]
-tags: ["원룸", "자취", "청소루틴"]
+tags: ["기초살림", "자취살림", "청소루틴"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1595599512948-b9831e5fc11c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxzbWFsbCUyMHN0dWRpbyUyMGFwYXJ0bWVudCUyMGludGVyaW9yfGVufDB8MHx8fDE3ODQ0MjUyMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["욕실 관리 루틴"]
-tags: ["곰팡이", "교체주기", "기본기"]
+tags: ["곰팡이습기", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1717497043540-d45bf85e5d38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8MXx8Y2F1bGtpbmclMjBiYXRodHViJTIwZWRnZXxlbnwwfDB8fHwxNzg0MjY2MDA5fDA&ixlib=rb-4.1.0&q=80&w=1080"

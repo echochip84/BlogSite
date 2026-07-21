@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["자취 살림 입문"]
-tags: ["관리비", "생활비절약", "자취"]
+tags: ["기초살림", "생활비용", "자취살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1458007683879-47560d7e33c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxlbGVjdHJpY2l0eSUyMG1ldGVyJTIwdXRpbGl0eSUyMGJpbGxzfGVufDB8MHx8fDE3ODQxODIxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"

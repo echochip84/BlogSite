@@ -7,7 +7,7 @@ date: 2026-07-12T09:00:00+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["청소 노하우"]
-tags: ["가전관리", "입문"]
+tags: ["살림도구", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx3aXBpbmclMjB3YXNoaW5nJTIwbWFjaGluZSUyMGFwcGxpYW5jZXxlbnwwfDB8fHwxNzgzODIxNTQwfDA&ixlib=rb-4.1.0&q=80&w=1080"

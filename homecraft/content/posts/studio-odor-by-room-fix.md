@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["자취 살림 입문"]
-tags: ["냄새제거", "자취"]
+tags: ["세탁관리", "자취살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1534175262708-ebf71ac916c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8MXx8b3BlbmluZyUyMHdpbmRvdyUyMGZyZXNoJTIwYWlyfGVufDB8MHx8fDE3ODQyNjU0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080"

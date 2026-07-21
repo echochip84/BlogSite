@@ -7,7 +7,7 @@ date: 2026-07-15T09:00:00+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["욕실 관리 루틴"]
-tags: ["교체주기", "문제해결", "비교"]
+tags: ["기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1613849925383-fab6d1d1353b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxjYXVsa2luZyUyMGd1biUyMHNlYWxhbnQlMjBiYXRodHVifGVufDB8MHx8fDE3ODQwOTE0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"

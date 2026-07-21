@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["자취 살림 입문"]
-tags: ["살림실수", "자취"]
+tags: ["기초살림", "자취살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1635368892977-0100146f12bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8M3x8bWVzc3klMjBzbWFsbCUyMGFwYXJ0bWVudCUyMGtpdGNoZW58ZW58MHwwfHx8MTc4NDI0MjAwOXww&ixlib=rb-4.1.0&q=80&w=1080"

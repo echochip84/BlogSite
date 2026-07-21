@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["자취 살림 입문"]
-tags: ["곰팡이", "벽지", "자취"]
+tags: ["곰팡이습기", "기초살림", "자취살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1529455949509-8237a70382f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8MXx8ZGFtcCUyMGNvbmRlbnNhdGlvbiUyMHdpbmRvdyUyMHdhbGx8ZW58MHwwfHx8MTc4NDI2NTQ5Nnww&ixlib=rb-4.1.0&q=80&w=1080"

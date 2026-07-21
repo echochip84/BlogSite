@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["계절 살림법"]
-tags: ["가전관리", "입문"]
+tags: ["살림도구", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1581578731256-de834a1fc8af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHx0ZWNobmljaWFuJTIwY2hlY2tpbmclMjBhaXIlMjBjb25kaXRpb25lcnxlbnwwfDB8fHwxNzg0Mjk1NzY5fDA&ixlib=rb-4.1.0&q=80&w=1080"

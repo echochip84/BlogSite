@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["욕실 관리 루틴"]
-tags: ["기본기", "루틴", "습기"]
+tags: ["기초살림", "청소루틴", "곰팡이습기"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1654440122140-f1fc995ddb34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxiYXRocm9vbSUyMGRyYWluJTIwd2F0ZXJ8ZW58MHwwfHx8MTc4NDI0MDUwNHww&ixlib=rb-4.1.0&q=80&w=1080"

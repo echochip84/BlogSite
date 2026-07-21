@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["세탁 관리법"]
-tags: ["세탁", "소재"]
+tags: ["세탁관리", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1643015862949-5c8d15a4242e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxmb2xkZWQlMjBrbml0JTIwc3dlYXRlcnN8ZW58MHwwfHx8MTc4NDI2NTM5Nnww&ixlib=rb-4.1.0&q=80&w=1080"

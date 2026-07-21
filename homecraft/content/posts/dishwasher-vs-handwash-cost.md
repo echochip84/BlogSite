@@ -7,7 +7,7 @@ date: 2026-07-12T09:00:00+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["주방 살림 기술"]
-tags: ["비교", "주방위생"]
+tags: ["기초살림", "주방위생"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/uploads/1413170239208ebba60a2/07d615e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxoYW5kJTIwd2FzaGluZyUyMGRpc2hlcyUyMHNpbmt8ZW58MHwwfHx8MTc4MzgyMTUzNHww&ixlib=rb-4.1.0&q=80&w=1080"

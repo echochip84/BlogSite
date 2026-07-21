@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["자취 살림 입문"]
-tags: ["1인가구", "살림도구", "자취"]
+tags: ["자취살림", "살림도구"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1654064756910-974764816931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxiYXNpYyUyMGtpdGNoZW4lMjB1dGVuc2lscyUyMG9uJTIwY291bnRlcnxlbnwwfDB8fHwxNzg0Mjk1MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"

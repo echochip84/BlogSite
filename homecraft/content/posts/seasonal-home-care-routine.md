@@ -7,7 +7,7 @@ date: 2026-07-15T09:00:00+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["계절 살림법"]
-tags: ["기본기", "루틴", "입문"]
+tags: ["기초살림", "청소루틴"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1567113463300-102a7eb3cb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxmb2xkaW5nJTIwc2Vhc29uYWwlMjBjbG90aGVzJTIwc3RvcmFnZXxlbnwwfDB8fHwxNzg0MDkxNDM4fDA&ixlib=rb-4.1.0&q=80&w=1080"

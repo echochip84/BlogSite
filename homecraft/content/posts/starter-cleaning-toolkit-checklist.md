@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["살림의 기초"]
-tags: ["입문", "체크리스트"]
+tags: ["기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1759846866217-e627e4478f82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxjbGVhbmluZyUyMHN1cHBsaWVzJTIwY2FkZHklMjBob21lfGVufDB8MHx8fDE3ODQyOTU3NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"

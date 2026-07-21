@@ -7,7 +7,7 @@ date: 2026-07-15T09:00:00+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["계절 살림법"]
-tags: ["문제해결", "비용"]
+tags: ["기초살림", "생활비용"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1599028274511-e02a767949a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxob21lJTIwcmFkaWF0b3IlMjBoZWF0aW5nfGVufDB8MHx8fDE3ODQxMDMxMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"

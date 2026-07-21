@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["청소 노하우"]
-tags: ["청소", "체크리스트"]
+tags: ["청소루틴", "기초살림"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1758273238847-bc2c2548e210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxlbXB0eSUyMGFwYXJ0bWVudCUyMGNsZWFuaW5nfGVufDB8MHx8fDE3ODQyNDA0OTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
