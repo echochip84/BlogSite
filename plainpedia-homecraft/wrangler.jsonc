@@ -1,0 +1,17 @@
+{
+  // 살림의 정석(homecraft) 전용 배포 프로젝트.
+  // plainpedia.com 도메인·URL은 그대로 두고, /homecraft/* 경로만 이 Worker가 서빙한다
+  // (Route가 부모 plainpedia Worker의 Custom Domain보다 우선한다). 프로젝트를 블로그별로
+  // 쪼개는 이유는 ①Worker당 정적 파일 20,000개 상한을 블로그별로 따로 쓰기 위해,
+  // ②한 블로그 배포가 다른 블로그 자산을 건드리지 못하게 장애를 격리하기 위해서다.
+  // assets 폴더 안에도 homecraft/ 접두사를 그대로 유지한다 — 요청 경로를 그대로 대조하므로
+  // 이 구조여야 baseURL(https://plainpedia.com/homecraft/)을 바꾸지 않고 쓸 수 있다.
+  "name": "plainpedia-homecraft",
+  "compatibility_date": "2026-07-05",
+  "assets": {
+    "directory": "./public"
+  },
+  "routes": [
+    { "pattern": "plainpedia.com/homecraft/*", "zone_name": "plainpedia.com" }
+  ]
+}

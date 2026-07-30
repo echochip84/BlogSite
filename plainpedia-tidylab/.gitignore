@@ -1,0 +1,5 @@
+# 블로그 전용 배포 프로젝트. public/{blog_id}/** 는 해당 블로그 Hugo 프로젝트
+# (D:\BlogSite\{blog_id}\)에서 매번 재생성되는 산출물이므로 커밋하지 않는다.
+# 추적 대상은 wrangler.jsonc 하나뿐이다.
+public/
+.wrangler/
