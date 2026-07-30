@@ -9,7 +9,10 @@ draft: false
 categories: ["공간 인테리어"]
 tags: ["공간인테리어", "인테리어기초"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxsYXVuZHJ5JTIwcm9vbSUyMHN0b3JhZ2UlMjBiYXNrZXRzfGVufDB8MHx8fDE3ODU0NTUyODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "방 안에 나란히 놓인 세탁기와 건조기"
+  caption: "Photo by [PlanetCare](https://unsplash.com/@planetcare?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0156"
 funnel_type: "입문교육"
 schema_type: "Article"
