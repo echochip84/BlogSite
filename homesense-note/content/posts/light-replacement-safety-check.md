@@ -6,10 +6,13 @@ summary: "조명 교체 감전의 약 89%는 전원이 살아 있는 상태에�
 date: 2026-07-30T09:00:00+09:00
 lastmod: 2026-07-30
 draft: false
-image_pending: true
 categories: ["셀프 수리"]
 tags: ["공간인테리어", "인테리어기초", "하자보수"]
 author: "echochip"
+cover:
+  image: "https://images.unsplash.com/photo-1508232069669-e31574bd5320?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjByZXBsYWNpbmclMjBjZWlsaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NTQ1NzY2NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "한 사람이 불이 켜진 천장 조명 기구를 손에 들고 설치하는 모습"
+  caption: "Photo by [Connor Bowden](https://unsplash.com/@connorbowden_photos?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0111"
 funnel_type: "체크리스트"
 schema_type: "Article"
