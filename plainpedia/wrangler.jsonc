@@ -4,7 +4,16 @@
   "main": "src/index.js",
   "assets": {
     "directory": "./public",
-    "binding": "ASSETS"
+    "binding": "ASSETS",
+    // 기본 동작은 요청 경로가 정적 자산·_redirects 규칙에 매치되면 Worker의 fetch()를
+    // 아예 거치지 않고 바로 서빙한다. src/index.js의 www→apex 리다이렉트는 fetch()
+    // 안에만 있어서, homesense-note처럼 이 프로젝트가 직접 서빙하는 블로그의 페이지는
+    // 전부 정적 자산으로 매치돼 리다이렉트가 통째로 무시되고 있었다(실측:
+    // www.plainpedia.com/homesense/가 301 없이 200으로 열림). tidylab·homecraft처럼
+    // 별도 프로젝트로 분리돼 이 프로젝트엔 자산이 없는 블로그만 정상적으로 fetch()로
+    // 넘어가 리다이렉트가 걸렸다. run_worker_first로 모든 요청이 반드시 fetch()를
+    // 먼저 거치게 해 이 우회를 막는다.
+    "run_worker_first": true
   },
   "routes": [
     { "pattern": "plainpedia.com", "custom_domain": true },
