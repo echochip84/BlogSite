@@ -5,18 +5,22 @@
   블로그 구분 키는 baseURL의 경로 세그먼트에서 뽑는다 — 예: https://plainpedia.com/homesense/
   → "homesense". 신규 블로그도 baseURL만 규칙대로면 별도 설정 없이 동작한다.
 
-  래퍼(-wrap)가 위아래 여백을 담당하고 배지 본체가 캡슐 모양을 담당한다. 조회에 실패하면
+  이 파셜은 사이드바 메뉴 목록(ul.nav) 안에 li로 들어간다 — 그래야 "정보" 항목과의
+  간격이 메뉴 항목끼리의 간격과 동일하게 유지된다. 바깥에 두면 nav의 flex-grow가
+  남는 공간을 흡수해 큰 빈 여백이 생긴다.
+
+  래퍼(-wrap)가 여백을 담당하고 배지 본체가 캡슐 모양을 담당한다. 조회에 실패하면
   래퍼째 숨겨야 여백만 덩그러니 남지 않는다.
 */}}
 {{ if site.Params.visitorCounter }}
   {{ $key := path.Base (urls.Parse site.BaseURL).Path }}
-  <div class="visitor-counter-wrap w-100" id="visitor-counter-wrap">
+  <li class="visitor-counter-wrap w-100" id="visitor-counter-wrap">
     <div class="visitor-counter" id="visitor-counter" data-site="{{ $key }}">
       <span class="vc-item">오늘 <strong class="vc-num" id="vc-today">&nbsp;</strong></span>
       <span class="vc-dot" aria-hidden="true">·</span>
       <span class="vc-item">누적 <strong class="vc-num" id="vc-total">&nbsp;</strong></span>
     </div>
-  </div>
+  </li>
   <script>
     (function () {
       var wrap = document.getElementById("visitor-counter-wrap");

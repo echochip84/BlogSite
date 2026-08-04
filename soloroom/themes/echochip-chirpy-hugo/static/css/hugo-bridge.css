@@ -811,9 +811,10 @@ footer {
 .visitor-counter-wrap {
   display: flex;
   justify-content: center;
-  /* 위쪽 "정보" 메뉴와는 띄우고, 아래 소셜 아이콘과는 붙여 하단 정보 그룹으로 묶는다. */
-  margin: 44px 0 15px;
+  /* 메뉴 항목끼리의 간격(4px)과 동일하게 맞춰 사이드바 상하 리듬을 통일한다. */
+  margin: 4px 0 0;
   padding: 0 1rem;
+  list-style: none;
 }
 
 .visitor-counter {
