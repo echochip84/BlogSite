@@ -9,7 +9,10 @@ draft: false
 categories: ["살림 도구 비교"]
 tags: ["살림도구", "청소루틴", "기초살림"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1776585617123-84cb50100bd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxzY3J1YmJpbmclMjBicnVzaGVzJTIwb24lMjB0aWxlfGVufDB8MHx8fDE3ODU4MzM5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "욕실의 타일 벽면을 스팀 청소기로 살균하며 청소하는 모습"
+  caption: "Photo by [Aurum Gebäudereinigung Kassel](https://unsplash.com/@aurumkassel?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hcr-0149"
 funnel_type: "입문교육"
 schema_type: "Article"
