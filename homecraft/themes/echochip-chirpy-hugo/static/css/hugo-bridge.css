@@ -806,34 +806,45 @@ footer {
   margin-top: 0;
 }
 
-/* 방문자 카운터 (사이드바 하단, partials/visitor-counter.html) */
-.visitor-counter {
+/* 방문자 카운터 (사이드바 하단, partials/visitor-counter.html)
+   색상은 테마의 사이드바 변수를 그대로 쓴다 — 하드코딩하면 다크 모드에서 깨진다. */
+.visitor-counter-wrap {
   display: flex;
-  align-items: center;
   justify-content: center;
-  gap: 0.5rem;
-  /* 숫자가 fetch로 늦게 들어오므로 높이를 고정해 레이아웃 이동(CLS)을 막는다. */
-  min-height: 1.6rem;
-  margin-bottom: 0.25rem;
+  /* 위쪽 "정보" 메뉴와는 띄우고, 아래 소셜 아이콘과는 붙여 하단 정보 그룹으로 묶는다. */
+  margin: 44px 0 15px;
   padding: 0 1rem;
-  font-size: 0.75rem;
-  line-height: 1.6rem;
-  color: var(--sidebar-muted, #8e8e8e);
 }
 
-.visitor-counter .vc-label {
-  margin-right: 0.2rem;
+.visitor-counter {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 13px;
+  border: 1px solid var(--sidebar-border-color);
+  border-radius: 999px;
+  background: var(--sidebar-btn-bg);
+  color: var(--sidebar-muted-color);
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: -0.25px;
+  white-space: nowrap;
+}
+
+.visitor-counter .vc-item {
+  /* 라벨은 숫자보다 한 단계 약하게 두어 시선 우선순위를 낮춘다. */
+  opacity: 0.78;
 }
 
 .visitor-counter .vc-num {
-  font-style: normal;
+  margin-left: 1px;
+  font-size: 12.5px;
   font-weight: 600;
+  /* 자릿수가 늘어도 폭이 덜 흔들리게 한다. */
   font-variant-numeric: tabular-nums;
+  opacity: 1;
 }
 
-.visitor-counter .vc-divider {
-  width: 1px;
-  height: 0.7rem;
-  background-color: currentColor;
-  opacity: 0.35;
+.visitor-counter .vc-dot {
+  opacity: 0.45;
 }

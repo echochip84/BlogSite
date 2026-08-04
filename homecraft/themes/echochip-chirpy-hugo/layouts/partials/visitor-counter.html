@@ -5,25 +5,23 @@
   블로그 구분 키는 baseURL의 경로 세그먼트에서 뽑는다 — 예: https://plainpedia.com/homesense/
   → "homesense". 신규 블로그도 baseURL만 규칙대로면 별도 설정 없이 동작한다.
 
-  숫자가 비동기로 들어오므로 자리를 미리 확보해 레이아웃 이동(CLS)을 막는다.
+  래퍼(-wrap)가 위아래 여백을 담당하고 배지 본체가 캡슐 모양을 담당한다. 조회에 실패하면
+  래퍼째 숨겨야 여백만 덩그러니 남지 않는다.
 */}}
 {{ if site.Params.visitorCounter }}
   {{ $key := path.Base (urls.Parse site.BaseURL).Path }}
-  <div class="visitor-counter w-100" id="visitor-counter" data-site="{{ $key }}">
-    <span class="vc-item">
-      <span class="vc-label">오늘</span>
-      <em class="vc-num" id="vc-today">&nbsp;</em>
-    </span>
-    <span class="vc-divider" aria-hidden="true"></span>
-    <span class="vc-item">
-      <span class="vc-label">누적</span>
-      <em class="vc-num" id="vc-total">&nbsp;</em>
-    </span>
+  <div class="visitor-counter-wrap w-100" id="visitor-counter-wrap">
+    <div class="visitor-counter" id="visitor-counter" data-site="{{ $key }}">
+      <span class="vc-item">오늘 <strong class="vc-num" id="vc-today">&nbsp;</strong></span>
+      <span class="vc-dot" aria-hidden="true">·</span>
+      <span class="vc-item">누적 <strong class="vc-num" id="vc-total">&nbsp;</strong></span>
+    </div>
   </div>
   <script>
     (function () {
+      var wrap = document.getElementById("visitor-counter-wrap");
       var box = document.getElementById("visitor-counter");
-      if (!box) return;
+      if (!wrap || !box) return;
       var site = box.getAttribute("data-site");
       if (!site) return;
 
@@ -44,13 +42,13 @@
       fetch("/api/hits?site=" + encodeURIComponent(site) + "&inc=" + inc)
         .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
         .then(function (d) {
+          // 누적이 네 자리를 넘으면 천 단위 쉼표를 넣는다(12,845 형태).
           document.getElementById("vc-today").textContent = (d.today || 0).toLocaleString();
           document.getElementById("vc-total").textContent = (d.total || 0).toLocaleString();
-          box.classList.add("is-loaded");
         })
         .catch(function () {
-          // 카운터를 못 불러오면 빈 라벨만 남아 고장난 것처럼 보이므로 통째로 숨긴다.
-          box.style.display = "none";
+          // 카운터를 못 불러오면 빈 배지만 남아 고장난 것처럼 보이므로 여백째 걷어낸다.
+          wrap.style.display = "none";
         });
     })();
   </script>
