@@ -810,12 +810,10 @@ footer {
    색상은 테마의 사이드바 변수를 그대로 쓴다 — 하드코딩하면 다크 모드에서 깨진다. */
 .visitor-counter-wrap {
   display: flex;
-  /* 메뉴 아이콘이 시작하는 세로선에 맞춘다 — 가운데 정렬하면 카운터만 튀어 보인다. */
-  justify-content: flex-start;
+  justify-content: center;
   /* 메뉴 항목끼리의 간격(4px)과 동일하게 맞춰 상하 리듬을 통일한다. */
   margin: 4px 0 0;
-  /* 왼쪽 60px = li.nav-item의 padding-left(44px) + a.nav-link의 padding-left(16px). */
-  padding: 0 1rem 0 60px;
+  padding: 0 1rem;
   list-style: none;
 }
 
