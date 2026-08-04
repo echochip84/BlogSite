@@ -819,12 +819,6 @@ footer {
   font-size: 0.75rem;
   line-height: 1.6rem;
   color: var(--sidebar-muted, #8e8e8e);
-  opacity: 0;
-  transition: opacity 0.2s ease-in;
-}
-
-.visitor-counter.is-loaded {
-  opacity: 1;
 }
 
 .visitor-counter .vc-label {
