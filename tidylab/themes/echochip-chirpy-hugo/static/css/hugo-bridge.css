@@ -805,3 +805,41 @@ footer {
 .footer-policy-links {
   margin-top: 0;
 }
+
+/* 방문자 카운터 (사이드바 하단, partials/visitor-counter.html) */
+.visitor-counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  /* 숫자가 fetch로 늦게 들어오므로 높이를 고정해 레이아웃 이동(CLS)을 막는다. */
+  min-height: 1.6rem;
+  margin-bottom: 0.25rem;
+  padding: 0 1rem;
+  font-size: 0.75rem;
+  line-height: 1.6rem;
+  color: var(--sidebar-muted, #8e8e8e);
+  opacity: 0;
+  transition: opacity 0.2s ease-in;
+}
+
+.visitor-counter.is-loaded {
+  opacity: 1;
+}
+
+.visitor-counter .vc-label {
+  margin-right: 0.2rem;
+}
+
+.visitor-counter .vc-num {
+  font-style: normal;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.visitor-counter .vc-divider {
+  width: 1px;
+  height: 0.7rem;
+  background-color: currentColor;
+  opacity: 0.35;
+}

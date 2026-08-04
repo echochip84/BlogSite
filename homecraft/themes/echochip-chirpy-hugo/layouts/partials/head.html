@@ -34,8 +34,8 @@
   {{ if site.Params.noindexSite }}
     <meta name="robots" content="noindex,follow">
   {{ else if and (in (slice "taxonomy" "term") .Kind) (eq .Data.Plural "tags") }}
-    {{/* 태그 페이지는 개별 글보다 얇고, 태그 수가 많아 사이트맵·색인 예산을 잠식한다 —
-         존재는 허용(내부 탐색용)하되 색인에서만 뺀다. */}}
+    {{/* 태그 페이지는 개별 글보다 얇고, 태그 수가 많아 사이트맵·색인 예산을 잠식한다
+         (실측: 글 118개 대비 태그 페이지 212개) — 존재는 허용(내부 탐색용)하되 색인에서만 뺀다. */}}
     <meta name="robots" content="noindex,follow">
   {{ else if eq .Type "archives" }}
     {{/* 아카이브 목록도 태그와 같은 이유(고유 콘텐츠 없는 목록 페이지)로 색인에서 뺀다. */}}
@@ -82,7 +82,7 @@
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}?v=chirpy-refine-15">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&amp;family=Source+Sans+Pro:wght@400;600;700;900&amp;display=swap">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css">
-  <link rel="stylesheet" href="{{ "css/hugo-bridge.css" | relURL }}?v=chirpy-refine-19">
+  <link rel="stylesheet" href="{{ "css/hugo-bridge.css" | relURL }}?v=chirpy-refine-20">
   {{ if site.Params.pageviews }}
     <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   {{ end }}

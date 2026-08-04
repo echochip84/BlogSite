@@ -14,6 +14,8 @@ enableRobotsTXT = true
   # Off by default: busuanzi's backend is unreliable and often leaves the
   # count empty ("조회 회"), which looks broken to visitors and reviewers.
   pageviews = false
+  # 사이드바 하단 방문자 카운터(당일/누적). 우산 프로젝트 Worker의 /api/hits를 쓴다.
+  visitorCounter = true
   # Keep this blog out of search indexes while under AdSense review hold.
   noindexSite = true
   # Cloudflare Web Analytics beacon token (dashboard-only stats, nothing

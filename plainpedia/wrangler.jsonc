@@ -18,5 +18,12 @@
   "routes": [
     { "pattern": "plainpedia.com", "custom_domain": true },
     { "pattern": "www.plainpedia.com", "custom_domain": true }
-  ]
+  ],
+  // 방문자 카운터(src/index.js의 /api/hits). 블로그 하나당 인스턴스 하나이며,
+  // 모든 블로그가 이 우산 프로젝트의 엔드포인트 하나를 공유한다.
+  "durable_objects": {
+    "bindings": [{ "name": "VISITOR_COUNTER", "class_name": "VisitorCounter" }]
+  },
+  // 무료 플랜에서는 SQLite 백엔드 Durable Object만 사용할 수 있다.
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["VisitorCounter"] }]
 }
