@@ -48,6 +48,10 @@ sources:
     url: "https://pubmed.ncbi.nlm.nih.gov/22915122/"
     publisher: "The Journal of Neuroscience"
     checked_at: "2026-07-09"
+  - title: "5S활동 실무가이드북"
+    url: "https://atpm.co.kr/3.bk_cons&edu/1.books/tpm_[new]manual/[tpm1]5s_guidebook_sample.pdf"
+    publisher: "한국TPM연구소(KTI)"
+    checked_at: "2026-08-05"
 disclaimer_type: "none"
 ---
 
@@ -226,3 +230,4 @@ Q. 리셋 루틴은 하루 몇 분이 적당한가요?
 - [Neural evidence for distracter suppression during visual search](https://pubmed.ncbi.nlm.nih.gov/22915122/) — The Journal of Neuroscience
 
 최종 확인일: 2026-07-09
+- [5S활동 실무가이드북](https://atpm.co.kr/3.bk_cons&edu/1.books/tpm_[new]manual/[tpm1]5s_guidebook_sample.pdf) — 한국TPM연구소(KTI)

@@ -48,6 +48,10 @@ sources:
     url: "https://measuretape.app/ko/blog/measure-fridge-appliance-fit/"
     publisher: "measuretape.app"
     checked_at: "2026-07-18"
+  - title: "공동주택 붙박이장 주변 결로 취약부위에 대한 결로방지대책의 성능 평가"
+    url: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07187524"
+    publisher: "대한건축학회 논문집 구조계(2017)"
+    checked_at: "2026-08-05"
 disclaimer_type: "none"
 ---
 
@@ -174,5 +178,6 @@ disclaimer_type: "none"
 - [인터넷 쇼핑 반품 및 환불하기](https://www.easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=835&ccfNo=4&cciNo=1&cnpClsNo=2) — 법제처 찾기쉬운 생활법령정보
 - [붙박이장 제작을 위한 실측 요령 및 기본크기](https://www.77g.com/diy/256) — 77g DIY 기술지원
 - [주문 전 가전제품·가구 치수 재는 법](https://measuretape.app/ko/blog/measure-fridge-appliance-fit/) — measuretape.app
+- [공동주택 붙박이장 주변 결로 취약부위에 대한 결로방지대책의 성능 평가](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07187524) — 대한건축학회 논문집 구조계(2017)
 
 최종 확인일: 2026년 7월 18일
