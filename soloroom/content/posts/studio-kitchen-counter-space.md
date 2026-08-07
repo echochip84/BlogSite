@@ -9,7 +9,10 @@ draft: false
 categories: ["원룸 인테리어"]
 tags: ["공간활용", "자취기초"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1745794565783-913db01a89b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjdXR0aW5nJTIwYm9hcmQlMjBvdmVyJTIwc2lua3xlbnwwfDB8fHwxNzg1OTc5ODUzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "선반과 식료품이 놓인 아늑한 부엌의 싱크대 풍경"
+  caption: "Photo by [Clay Banks](https://unsplash.com/@claybanks?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "sol-0015"
 funnel_type: "문제해결"
 schema_type: "Article"
