@@ -9,7 +9,10 @@ draft: false
 categories: ["주방 살림 기술"]
 tags: ["살림도구", "생활비용"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1543352632-fea6d4f83e78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxnbGFzcyUyMGZvb2QlMjBzdG9yYWdlJTIwY29udGFpbmVyc3xlbnwwfDB8fHwxNzg2MTYwODAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "흰 바닥 위에 음식이 가득 담긴 투명한 유리 밀프렙 용기 여섯 개가 나란히 놓여 있다"
+  caption: "Photo by [Ella Olsson](https://unsplash.com/@ellaolsson?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hcr-0261"
 funnel_type: "비교판단"
 schema_type: "Article"
