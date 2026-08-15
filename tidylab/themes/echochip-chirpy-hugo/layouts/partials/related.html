@@ -1,6 +1,12 @@
-{{ $related := site.RegularPages.Related . | first 3 }}
+{{ $posts := where site.RegularPages "Section" "posts" }}
+{{ $related := site.RegularPages.Related . }}
+{{ if lt (len $related) 3 }}
+  {{ $categoryRelated := where $posts "Params.categories" "intersect" .Params.categories }}
+  {{ $related = union $related $categoryRelated }}
+{{ end }}
+{{ $related = first 3 (where $related "RelPermalink" "ne" .RelPermalink) }}
 {{ if eq (len $related) 0 }}
-  {{ $related = first 3 (where (where site.RegularPages "Section" "posts") "RelPermalink" "ne" .RelPermalink) }}
+  {{ $related = first 3 (where $posts "RelPermalink" "ne" .RelPermalink) }}
 {{ end }}
 
 {{ if gt (len $related) 0 }}

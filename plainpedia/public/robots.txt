@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /api/
 
-Sitemap: https://plainpedia.com/homesense/sitemap.xml
-Sitemap: https://plainpedia.com/tidylab/sitemap.xml
-Sitemap: https://plainpedia.com/homecraft/sitemap.xml
+Sitemap: https://plainpedia.com/sitemap.xml

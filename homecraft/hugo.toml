@@ -6,6 +6,8 @@ enableRobotsTXT = true
 
 [params]
   author = 'echochip'
+  alternateNames = ['Plainpedia 살림의 정석', '생활 살림의 정석']
+  featuredPosts = ['household-basics-for-beginners', 'cleaning-order-principles', 'essential-detergents-five-kit']
   description = '청소·세탁·주방 살림의 기준을 정리해, 매일의 집안일을 조금 더 가볍게 만들어 드립니다.'
   tagline = '청소·세탁·주방 살림의 기준과 노하우를 정리하는 생활 살림 블로그'
   favicon = 'images/avatar.png'
@@ -66,3 +68,15 @@ enableRobotsTXT = true
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 3
+
+[outputFormats.SearchIndex]
+  mediaType = 'application/json'
+  baseName = 'search'
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ['HTML', 'RSS', 'SearchIndex']
+  section = ['HTML']
+  taxonomy = ['HTML']
+  term = ['HTML']

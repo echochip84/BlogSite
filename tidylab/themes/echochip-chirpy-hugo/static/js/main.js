@@ -292,19 +292,37 @@
     }
   };
 
-  const searchItems = (() => {
-    const data = document.getElementById('search-data');
+  let searchItems = [];
+  let searchItemsPromise = null;
 
-    if (!data?.textContent) {
-      return [];
+  const loadSearchItems = () => {
+    if (searchItemsPromise) {
+      return searchItemsPromise;
     }
 
-    try {
-      return JSON.parse(data.textContent);
-    } catch {
-      return [];
+    const endpoint = document.documentElement.dataset.searchIndexUrl;
+    if (!endpoint) {
+      return Promise.resolve(searchItems);
     }
-  })();
+
+    searchItemsPromise = fetch(endpoint, { credentials: 'same-origin' })
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`Search index request failed: ${response.status}`);
+        }
+        return response.json();
+      })
+      .then((items) => {
+        searchItems = Array.isArray(items) ? items : [];
+        return searchItems;
+      })
+      .catch(() => {
+        searchItems = [];
+        return searchItems;
+      });
+
+    return searchItemsPromise;
+  };
 
   const normalize = (value) => (value || '').toString().toLocaleLowerCase();
 
@@ -326,10 +344,12 @@
     searchTrigger?.classList.remove('d-none');
   };
 
-  const renderSearchResults = () => {
+  const renderSearchResults = async () => {
     if (!searchInput || !searchResults) {
       return;
     }
+
+    await loadSearchItems();
 
     const query = normalize(searchInput.value.trim());
 
@@ -411,7 +431,10 @@
 
   searchTrigger?.addEventListener('click', openMobileSearch);
   searchCancel?.addEventListener('click', closeSearch);
-  searchInput?.addEventListener('focus', () => searchBox?.classList.add('input-focus'));
+  searchInput?.addEventListener('focus', () => {
+    searchBox?.classList.add('input-focus');
+    void loadSearchItems();
+  });
   searchInput?.addEventListener('focusout', () => searchBox?.classList.remove('input-focus'));
   searchInput?.addEventListener('input', renderSearchResults);
 
