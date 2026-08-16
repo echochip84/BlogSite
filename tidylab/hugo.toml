@@ -7,7 +7,6 @@ enableRobotsTXT = true
 [params]
   author = 'echochip'
   alternateNames = ['정리수납연구소', 'Plainpedia 정리수납 연구소']
-  featuredPosts = ['where-to-start-organizing-3-spots', 'declutter-before-storage-order', 'storage-space-design-5-principles']
   description = '좁은 집도 넓게 쓰는 정리·수납 노하우를 공간별로 실험하고 기록하는 정리 연구소입니다.'
   tagline = '정리 수납 미니멀 라이프<br>효율적 공간 활용 꿀팁!'
   favicon = 'images/avatar.jpg'

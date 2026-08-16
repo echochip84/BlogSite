@@ -1,29 +1,6 @@
 {{ define "main" }}
-  {{ $site := site }}
   {{ $posts := where site.RegularPages "Section" "posts" }}
   {{ $paginator := .Paginate $posts }}
-
-  <header class="home-intro px-xl-1 mb-4">
-    <h1>{{ site.Title }}</h1>
-    <p>{{ site.Params.description }}</p>
-    <p class="text-muted"><a href="https://plainpedia.com/">Plainpedia</a>의 생활 전문 블로그입니다.</p>
-  </header>
-
-  {{ with site.Params.featuredPosts }}
-    <section class="featured-guides px-xl-1 mb-5" aria-labelledby="featured-guides-title">
-      <h2 id="featured-guides-title" class="h4 mb-3">대표 가이드</h2>
-      <div class="list-group">
-        {{ range . }}
-          {{ with $site.GetPage (printf "/posts/%s" .) }}
-            <a class="list-group-item list-group-item-action" href="{{ .RelPermalink }}">
-              <strong class="d-block">{{ .Title }}</strong>
-              {{ with .Description }}<span class="text-muted">{{ . | plainify | truncate 120 }}</span>{{ end }}
-            </a>
-          {{ end }}
-        {{ end }}
-      </div>
-    </section>
-  {{ end }}
 
   <section id="post-list" class="flex-grow-1 px-xl-1" aria-label="Posts">
     {{ range $paginator.Pages }}

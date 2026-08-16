@@ -7,7 +7,6 @@ enableRobotsTXT = true
 [params]
   author = 'echochip'
   alternateNames = ['홈센스노트', 'Plainpedia 홈센스 노트']
-  featuredPosts = ['home-repair-types-order-guide', 'remodeling-vs-interior-difference', 'interior-budget-priority-basics']
   description = '집수리·인테리어 전반을 다루는 전문 정보 블로그'
   tagline = '집수리·인테리어<br>판단 기준부터 비용까지'
   favicon = 'images/avatar.png'
