@@ -7,7 +7,7 @@
     {{ range first 10 $tags }}
       <li>
         <a class="taxonomy-link" href="{{ .Page.RelPermalink }}">
-          <span class="taxonomy-name">{{ .Term }}</span>
+          <span class="taxonomy-name">{{ .Page.Title }}</span>
           <span class="taxonomy-count">{{ .Count }}</span>
         </a>
       </li>

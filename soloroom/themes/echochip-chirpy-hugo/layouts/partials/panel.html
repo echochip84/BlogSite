@@ -22,7 +22,7 @@
       <h2 class="panel-heading">인기 태그</h2>
       <div class="d-flex flex-wrap mt-3 mb-1 me-3">
         {{ range first 10 site.Taxonomies.tags.ByCount }}
-          <a class="post-tag btn btn-outline-primary" href="{{ .Page.RelPermalink }}">{{ .Term }}</a>
+          <a class="post-tag btn btn-outline-primary" href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
         {{ end }}
       </div>
     </section>

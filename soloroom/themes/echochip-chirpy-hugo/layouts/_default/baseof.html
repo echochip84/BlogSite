@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.Locale | default "ko-KR" }}">
+<html lang="{{ site.Language.Locale | default "ko-KR" }}" data-search-index-url="{{ "search.json" | relURL }}">
   {{ partial "head.html" . }}
   <body>
     <a class="visually-hidden-focusable" href="#main-content">Skip to content</a>
@@ -33,7 +33,6 @@
       </button>
     </aside>
     <div id="mask" class="d-none position-fixed w-100 h-100 z-1"></div>
-    {{ partial "search-data.html" . }}
-    <script src="{{ "js/main.js" | relURL }}?v=chirpy-refine-16"></script>
+    <script src="{{ "js/main.js" | relURL }}?v=chirpy-refine-17"></script>
   </body>
 </html>
