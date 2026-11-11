@@ -2,6 +2,7 @@
   {{ $posts := where site.RegularPages "Section" "posts" }}
   {{ $paginator := .Paginate $posts }}
 
+  <h1 class="visually-hidden">{{ site.Title }}</h1>
   <section id="post-list" class="flex-grow-1 px-xl-1" aria-label="Posts">
     {{ range $paginator.Pages }}
       {{ partial "post-card.html" . }}
